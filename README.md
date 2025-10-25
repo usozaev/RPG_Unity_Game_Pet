@@ -1,6 +1,6 @@
 # RPG Pet Project
 
-Пет-проект RPG игра с механиками ручного боя и способностей.
+Пет-проект RPG игра с механиками ручного боя и способностей, созданный на основе опыта предыдущих проектов.
 
 ## 🎮 Реализованные механики
 
@@ -15,13 +15,13 @@
 - **Движок:** Unity
 - **Язык:** C#
 
----
+## 💡 О разработке
 
-*Проект создан в образовательных целях*
+Проект создан с использованием знаний, полученных в предыдущих проектах, а также с небольшой помощью AI-ассистентов для решения отдельных технических задач.
 
 # RPG Pet Project
 
-A pet project RPG game with manual combat and ability mechanics.
+A pet project RPG game with manual combat and ability mechanics, built upon experience from previous projects.
 
 ## 🎮 Implemented Mechanics
 
@@ -36,4 +36,6 @@ A pet project RPG game with manual combat and ability mechanics.
 - **Engine:** Unity
 - **Language:** C#
 
-*Project created for educational purposes*
+## 💡 Development Notes
+
+This project was created using knowledge gained from previous projects, with minor assistance from AI helpers for solving specific technical challenges.
